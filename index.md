@@ -21,3 +21,10 @@ Instead, the viewbox should be positioned to fit the content of the SVG, so that
 This gives the correct final image.
 
 ![results of an aligned viewbox](https://lukepeterson.co.uk/maths/assets/aligned-1b92b68a.svg)
+
+## Code example
+
+```
+$ echo "hello world!"
+hello world!
+```
